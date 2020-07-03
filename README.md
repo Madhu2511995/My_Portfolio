@@ -2,6 +2,6 @@
 
 ![](images/Madh.jpg)
 
-### Madhusudan Prajapati
+# Madhusudan Prajapati
 
 ## Project1
