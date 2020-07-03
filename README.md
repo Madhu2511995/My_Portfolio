@@ -1,6 +1,6 @@
 # My_Portfolio
 Data Science Portfolio
 
-![](images/Madhu1.jpg)
+![](images/Madh.jpg)
 
 ## Project1
