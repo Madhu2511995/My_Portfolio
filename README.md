@@ -28,7 +28,7 @@
 ![](images/Alcohol.gif)
 
 
-## [**Project 4: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+## [**Project 4: Machine Learning with R**](https://github.com/Madhu2511995/Heart-Disease)
 
 
 
