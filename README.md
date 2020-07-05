@@ -9,6 +9,12 @@
 ## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
 
   * Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
+  * A fast and efficient DataFrame object for data manipulation with integrated indexing.
+  * Tools for reading and writing data between in-memory data structures and different formats: CSV and text files, Microsoft Excel, SQL databases, and the fast HDF5 format.
+  * Intelligent data alignment and integrated handling of missing data: gain automatic label-based alignment in computations and easily manipulate messy data into an orderly form.
+  * Flexible reshaping and pivoting of data sets.
+  * Intelligent label-based slicing, fancy indexing, and subsetting of large data sets.
+  * Aggregating or transforming data with a powerful group by engine allowing split-apply-combine operations on data sets.
    
    
    
