@@ -8,6 +8,8 @@
 
 ## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
 
+   1. Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
+
 ## [**Project 2: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
