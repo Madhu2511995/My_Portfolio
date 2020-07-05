@@ -8,7 +8,7 @@
 
 ## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
 
-   1. Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
+  * Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
    
    
    
@@ -16,7 +16,7 @@
    
 ## [**Project 2: Loan-Predication**](https://github.com/Madhu2511995/Loan-Predication)   
    
-  * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1200 row'** and **'7 column'**'. 
+  * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 column'**'. 
    
 
 ## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
