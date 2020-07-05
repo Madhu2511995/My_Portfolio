@@ -45,7 +45,7 @@
 ## [**Project 4: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
 
 * The dataset has **'4 row'**, and **'12 column'**.
-* Useing this dataset Predict the price of home according to these columns **'Area'**,**'Bedrooms'**,**'Old'**,
+* Useing this dataset Predict the price of home according to these inputs **'Area'**,**'Bedrooms'**,**'Old'**.
 * I have apply **'Decision Tree'** algorithms for model predication.
 * Then used flask for deployment the model.
 
