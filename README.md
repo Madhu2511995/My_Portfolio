@@ -14,7 +14,7 @@
 
 # Dashboards 
 
-## Dashboard 1 :
+## Dashboard 1 : Covid 19
 
 ![](images/Country.gif)
 
