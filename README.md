@@ -13,6 +13,12 @@
 
 
 # Dashboards 
-## Dashboard 1 : Oil_and_Gas_Annual_Production__1985_-_2000
+
+## Dashboard 1 :
+
+![](images/Oil.gif)
+
+
+## Dashboard 2 : Oil_and_Gas_Annual_Production__1985_-_2000
 
 ![](images/Oil.gif)
