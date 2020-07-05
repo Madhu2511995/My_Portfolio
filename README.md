@@ -6,7 +6,7 @@
 
 # Projects
 
-## [**Project 1: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
 
 ## [**Project 2: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
 
