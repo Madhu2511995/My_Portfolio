@@ -8,12 +8,14 @@
 
 ## [**Project 1: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
 
+## [**Project 2: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
 
 
 
 
-## [**Project 2: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
+## [**Project 3: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
 
 ### [**Web App on Heroku**](https://home-price.herokuapp.com/)
 
@@ -21,18 +23,18 @@
 
 
 
-## [**Project 3: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
+## [**Project 4: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
 
 ### [**Web App on Heroku**](https://alchol.herokuapp.com/)
 
 ![](images/Alcohol.gif)
 
 
-## [**Project 4:Machine Learning With R**](https://github.com/Madhu2511995/Machine-Learning-With-R)
+## [**Project 5:Machine Learning With R**](https://github.com/Madhu2511995/Machine-Learning-With-R)
 
 
 
-## [**Project 5: Automation with R**](https://github.com/Madhu2511995/Automation)
+## [**Project 6: Automation with R**](https://github.com/Madhu2511995/Automation)
 
 
 
