@@ -9,15 +9,24 @@
 ## [**Project 1: Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
 
    1. Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool in Python.
+   
+   
+   
+   
+   
+## [**Project 2: Loan-Predication**](https://github.com/Madhu2511995/Loan-Predication)   
+   
+   
+   
 
-## [**Project 2: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
 
 
 
 
-## [**Project 3: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
+## [**Project 4: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
 
 ### [**Web App on Heroku**](https://home-price.herokuapp.com/)
 
@@ -25,18 +34,18 @@
 
 
 
-## [**Project 4: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
+## [**Project 5: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
 
 ### [**Web App on Heroku**](https://alchol.herokuapp.com/)
 
 ![](images/Alcohol.gif)
 
 
-## [**Project 5:Machine Learning With R**](https://github.com/Madhu2511995/Machine-Learning-With-R)
+## [**Project 6:Machine Learning With R**](https://github.com/Madhu2511995/Machine-Learning-With-R)
 
 
 
-## [**Project 6: Automation with R**](https://github.com/Madhu2511995/Automation)
+## [**Project 7: Automation with R**](https://github.com/Madhu2511995/Automation)
 
 
 
