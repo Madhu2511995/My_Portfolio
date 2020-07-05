@@ -28,7 +28,7 @@
 ![](images/Alcohol.gif)
 
 
-## [**Project 4: Automation with R**](https://github.com/Madhu2511995/Automation)
+## [**Project 4:Machine Learning With R**](https://github.com/Madhu2511995/Machine-Learning-With-R)
 
 
 
