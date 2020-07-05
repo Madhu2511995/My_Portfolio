@@ -6,8 +6,26 @@
 
 # Projects
 
+## [**Project 1: Heart Disease Predication**]()
+
+### [**Web App on Heroku**]
 
 
+
+
+## [**Project 2: Home Price Predication**]()
+
+### [**Web App on Heroku**]
+
+![](images/Alcohol.gif)
+
+
+
+## [**Project 3: Alcohol Quality Checker**]()
+
+### [**Web App on Heroku**]
+
+![](images/House.gif)
 
 
 
