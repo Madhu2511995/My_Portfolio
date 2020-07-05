@@ -26,7 +26,7 @@
   * Useing this dataset Predict that a person can get loan or not.
   * **'chi2'** has been used for Feature Selection.
   * I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
-  * Use Cross Validation for Model Selection, i found that the accuracy of the SVM is higher than other.
+  * Use Cross Validation for Model Selection, found that the accuracy of the SVM is higher than other.
    
 
 ## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
@@ -34,6 +34,8 @@
 * The dataset has **'16 row'**, and **'4239 column'**.
 * From the dataset we have to predict the Heart Disease after 10 years.
 * **'chi2'** has been used for Feature Selection.
+* I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
+* Use Cross Validation for Model Selection, found that the accuracy of the SVM is higher than other.
 * After Feature Selection found that output depend on these columns **'sysBP'**,**'age'**,**'totChol'**,**'cigsPerDay'**,**'diaBP'**.
 * Then used flask for deployment the model.
 
@@ -56,6 +58,12 @@
 
 
 ## [**Project 5: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
+
+* The dataset has **5 row**, and **4899 column**. 
+* From the dataset we have to predict the **Quality of alcohol** is :**"High"**, or **"Low"**.
+* I have apply **Logistic Regression** algorithms for model predication.
+* Then used flask for deployment the model.
+
 
 ### [**Web App on Heroku**](https://alchol.herokuapp.com/)
 
