@@ -22,7 +22,7 @@
    
 ## [**Project 2: Loan-Predication**](https://github.com/Madhu2511995/Loan-Predication)   
    
-  * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 column'**'. 
+  * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 columns'**'. 
   * Useing this dataset Predict that a person can get loan or not.
   * **'chi2'** has been used for Feature Selection.
   * I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
@@ -35,7 +35,7 @@
 * From the dataset we have to predict the Heart Disease after 10 years.
 * **'chi2'** has been used for Feature Selection.
 * After Feature Selection found that output depend on these columns **'sysBP'**,**'age'**,**'totChol'**,**'cigsPerDay'**,**'diaBP'**.
-* Then using flask for deployment the model.
+* Then used flask for deployment the model.
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
 
@@ -43,6 +43,11 @@
 
 
 ## [**Project 4: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
+
+* The dataset has **'4 row'**, and **'12 column'**.
+* Useing this dataset Predict the price of home according to these columns **'Area'**,**'Bedrooms'**,**'Old'**,
+* I have apply **'Decision Tree'** algorithms for model predication.
+* Then used flask for deployment the model.
 
 ### [**Web App on Heroku**](https://home-price.herokuapp.com/)
 
