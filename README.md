@@ -6,7 +6,7 @@
 
 # Projects
 
-## [**Project 1: Heart Disease Predication**]()
+## [**Project 1: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
 
 ### [**Web App on Heroku**]()
 
