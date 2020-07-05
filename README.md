@@ -34,9 +34,9 @@
 * The dataset has **'16 row'**, and **'4239 column'**.
 * From the dataset we have to predict the Heart Disease after 10 years.
 * **'chi2'** has been used for Feature Selection.
-* I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
-* Use Cross Validation for Model Selection, found that the accuracy of the **Decision Tree** is higher than other.
 * After Feature Selection found that output depend on these columns **'sysBP'**,**'age'**,**'totChol'**,**'cigsPerDay'**,**'diaBP'**.
+* I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
+* Found that the accuracy of the **Decision Tree** is higher than other.
 * Then used flask for deployment the model.
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
