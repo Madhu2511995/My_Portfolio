@@ -16,7 +16,7 @@
 
 ## Dashboard 1 :
 
-![](images/Oil.gif)
+![](images/Country.gif)
 
 
 ## Dashboard 2 : Oil_and_Gas_Annual_Production__1985_-_2000
