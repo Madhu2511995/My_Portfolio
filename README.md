@@ -13,7 +13,7 @@
 
 
 
-## [**Project 2: Home Price Predication**]()
+## [**Project 2: Home Price Predication**](https://github.com/Madhu2511995/Home-Price-Predication)
 
 ### [**Web App on Heroku**]()
 
