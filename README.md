@@ -18,7 +18,9 @@
    
   * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 column'**'. 
   * From the dataset Predict, a person can get loan **'Yes'**,or **'No'**.
-  * 
+  * **'chi2'** has been used for Feature Selection
+  * I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
+  * Use Cross Validation for Model Selection,i found that the accuracy of the SVM is higher than other algorithms in this dataset.
    
 
 ## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
