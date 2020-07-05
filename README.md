@@ -21,7 +21,7 @@
 
 
 
-## [**Project 3: Alcohol Quality Checker**]()
+## [**Project 3: Alcohol Quality Checker**](https://github.com/Madhu2511995/Alcohol-Quality-Predication)
 
 ### [**Web App on Heroku**](https://alchol.herokuapp.com/)
 
