@@ -17,6 +17,7 @@
 ## [**Project 2: Loan-Predication**](https://github.com/Madhu2511995/Loan-Predication)   
    
   * The dataset has **'Response'**,**'Age'**,**'Job'**,**'Marital Status'**,**'Education'**,**'balance'**,**'housing'**,and **'loan'** columns. It has **'1816 row'** and **'8 column'**'. 
+  * From the dataset Predict a person can get loan **'Yes'**,or **'No'**.
    
 
 ## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
