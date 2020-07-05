@@ -28,6 +28,9 @@
 ![](images/Alcohol.gif)
 
 
+## [**Project 4: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
+
+
 
 
 # Dashboards 
