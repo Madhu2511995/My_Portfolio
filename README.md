@@ -34,8 +34,8 @@
 * The dataset has **'16 row'**, and **'4239 column'**.
 * From the dataset we have to predict the Heart Disease after 10 years.
 * **'chi2'** has been used for Feature Selection.
-* After Feature Selection i found that output depend on these columns **'sysBP'**,**'age'**,**'totChol'**,**'cigsPerDay'**,**'diaBP'**.
-* Then using flask deployment the model.
+* After Feature Selection found that output depend on these columns **'sysBP'**,**'age'**,**'totChol'**,**'cigsPerDay'**,**'diaBP'**.
+* Then using flask for deployment the model.
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
 
