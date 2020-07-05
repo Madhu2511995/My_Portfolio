@@ -20,7 +20,7 @@
   * Useing this dataset Predict that a person can get loan or not.
   * **'chi2'** has been used for Feature Selection.
   * I have applide **'Logistic Regression'**, **'Decision Tree'**, **'Random Forest'**, **'SVM'**, and **'KNN'** algorithms.
-  * Use Cross Validation for Model Selection, i found that the accuracy of the SVM is higher.
+  * Use Cross Validation for Model Selection, i found that the accuracy of the SVM is higher than other.
    
 
 ## [**Project 3: Heart Disease Predication**](https://github.com/Madhu2511995/Heart-Disease)
