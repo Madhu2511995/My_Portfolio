@@ -71,7 +71,7 @@
 
 
 ## [**Project 6: Automation with R**](https://github.com/Madhu2511995/Automation)
- * Create an automation project with the use of **T test **, **Anova**, **Correlation**, and **chi square **.
+ * Create an automation project with the use of **T test**, **Anova**, **Correlation**, and **chi square**.
  * **P- value :**It indicates whether there is a statistically significant difference between two samples.
  * If **p-value < 0.05** then the difference is significant and treatment has been effective else the difference is insignificant and treatment has been not significantly       effective.
 
