@@ -41,6 +41,7 @@
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
 
+![](images/Heart.gif)
 
 
 
@@ -81,11 +82,15 @@
 
 # Dashboards 
 
-## Dashboard 1 : Covid 19
+## Dashboard 1 : Diffrent Types of chart in Tableau
+
+![](images/Tableau.gif)
+
+## Dashboard 2 : Covid 19
 
 ![](images/Country.gif)
 
 
-## Dashboard 2 : Oil_and_Gas_Annual_Production__1985_-_2000
+## Dashboard 3 : Oil_and_Gas_Annual_Production__1985_-_2000
 
 ![](images/Oil.gif)
