@@ -40,7 +40,6 @@
 * Then used flask for deployment the model.
 
 ### [**Web App on Heroku**](https://heart-predication.herokuapp.com/)
-
 ![](images/Heart.gif)
 
 
