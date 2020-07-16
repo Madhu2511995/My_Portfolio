@@ -103,10 +103,10 @@
 
 ![](images/Oil.gif)
 
-## Dashboard 4 : Covid 19
+## Dashboard 4 : 
 
-![](images/Country.gif)
+![](images/Presentation 6.gif)
 
-## Dashboard 5 : Covid 19
+## Dashboard 5 : 
 
-![](images/Country.gif)
+![](images/Presentation 7.gif)
