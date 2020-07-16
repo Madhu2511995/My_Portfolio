@@ -103,10 +103,10 @@
 
 ![](images/Oil.gif)
 
-## Dashboard 4 : 
+## Dashboard 4 : Cholera
 
-![](images/Presentation 6.gif)
+![](images/Cholera.gif)
 
 ## Dashboard 5 : 
 
-![](images/Presentation 7.gif)
+![](images/sales.gif)
