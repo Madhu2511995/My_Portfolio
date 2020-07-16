@@ -88,7 +88,7 @@
 
 
 
-# Dashboards 
+# Dashboards with the use of Tableau & PowerBI
 
 ## Dashboard 1 : Diffrent Types of chart in Tableau
 
