@@ -90,23 +90,26 @@
 
 # Dashboards with the use of Tableau & PowerBI
 
-## Dashboard 1 : Diffrent Types of chart in Tableau
+## Dashboard 1 : Sample Superstore Profit 
+![](images/Sample Superstore.gif)
+
+## Dashboard 2 : Diffrent Types of chart in Tableau
 
 ![](images/Tableau.gif)
 
-## Dashboard 2 : Covid 19
+## Dashboard 3 : Covid 19
 
 ![](images/Country.gif)
 
 
-## Dashboard 3 : Oil_and_Gas_Annual_Production__1985_-_2000
+## Dashboard 4 : Oil_and_Gas_Annual_Production__1985_-_2000
 
 ![](images/Oil.gif)
 
-## Dashboard 4 : Cholera Disease All Over the World
+## Dashboard 5 : Cholera Disease All Over the World
 
 ![](images/Cholera.gif)
 
-## Dashboard 5 : Sales 
+## Dashboard 6 : Sales 
 
 ![](images/sales.gif)
