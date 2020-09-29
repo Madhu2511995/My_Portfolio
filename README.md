@@ -91,7 +91,7 @@
 # Dashboards with the use of Tableau & PowerBI
 
 ## Dashboard 1 : Sample Superstore Profit 
-![](images/Sample Superstore.gif)
+![](images/Superstore.gif)
 
 ## Dashboard 2 : Diffrent Types of chart in Tableau
 
