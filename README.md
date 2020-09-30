@@ -99,7 +99,7 @@
 
 ## Dashboard 3 : Covid 19
 
-![](images/Country.gif)
+![](images/Covid.gif)
 
 
 ## Dashboard 4 : Oil_and_Gas_Annual_Production__1985_-_2000
