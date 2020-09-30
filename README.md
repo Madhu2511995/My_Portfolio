@@ -110,6 +110,3 @@
 
 ![](images/Cholera.gif)
 
-## Dashboard 6 : Sales 
-
-![](images/sales.gif)
