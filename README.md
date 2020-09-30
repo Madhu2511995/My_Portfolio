@@ -103,7 +103,12 @@
 
 ![](images/Oil.gif)
 
-## Dashboard 5 : Cholera Disease All Over the World
+## Dashboard 5 : Sales
+
+![](images/Sales.gif)
+
+
+## Dashboard 6 : Cholera Disease All Over the World
 
 ![](images/Cholera.gif)
 
