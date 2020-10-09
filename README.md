@@ -107,8 +107,6 @@
 
 ![](images/Sales.gif)
 
-
-## Dashboard 6 : Cholera Disease All Over the World
-
-![](images/Cholera.gif)
+## Dashboard 6 : YouTube 
+![](images/Youtube.gif)
 
