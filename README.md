@@ -103,7 +103,7 @@
 
 ![](images/Oil.gif)
 
-## Dashboard 5 : Sales
+## Dashboard 5 : City Wise Sales of India
 
 ![](images/Sales.gif)
 
