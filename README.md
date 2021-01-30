@@ -5,7 +5,7 @@
 # Madhusudan Prajapati
 
 # Projects
-## [**Project : Stock Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
+## [**Project : Stock Analysis with Pandas**](https://github.com/Madhu2511995/Stock_Analysis)
 
 
 
