@@ -7,11 +7,10 @@
 # Projects
 ## [**Project : Stock Analysis with Pandas**](https://github.com/Madhu2511995/Stock_Analysis)
 
-
-
-
-
-
+ * Find out **BUY** & **SELL** of **Bank_Nifty** according to **Super_Trend** Values.
+ * First calculate **TR**(True Range) & **ATR**(Average True Range).
+ * Calculte Upeer & Lower Band.
+ * Calculate Super Trend values.
 
 
 ## [**Project : Data Analysis with Pandas**](https://github.com/Madhu2511995/Pandas-Library)
