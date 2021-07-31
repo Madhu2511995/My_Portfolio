@@ -1,6 +1,6 @@
 # My_Portfolio
 
-![](images/Madhu.jpg)
+![](images/Madhusudan.JPG)
 
 # Madhusudan Prajapati
 
